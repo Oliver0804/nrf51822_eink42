@@ -38,8 +38,8 @@ This repository contains the source code for driving an E-Paper display using Ze
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/epaper-driver-zephyr.git
-   cd epaper-driver-zephyr
+   git clone https://github.com/Oliver0804/nrf51822_eink42
+   cd nrf51822_eink42
    ```
 
 2. **Build the Project:**
