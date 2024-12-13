@@ -2,12 +2,12 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /dts-v1/;
-#include <nordic/nrf51822_qfab.dtsi>
+#include <nordic/nrf51822_qfac.dtsi>
 #include "eink-pinctrl.dtsi"
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
 / {
-	model = "eink";
+	model = "eink_51822ab";
 	compatible = "oliver0804,eink";
 
 	chosen {
