@@ -2,7 +2,6 @@
 # E-Paper Display Driver for Zephyr  
 
 ![alt text](doc/IMG_2666.jpeg)  
-
 This repository contains the source code for driving an E-Paper display using Zephyr RTOS.  
 The project demonstrates SPI communication, GPIO management, and LUT configuration for different E-Paper panels.  
 
@@ -115,6 +114,19 @@ To convert images to E-Paper display data, use the **Image2CPP** tool.
 
 ---
 
+## 3D files
+
+![alt text](<doc/3dfile/freecad/截圖 2024-12-15 晚上8.22.15.png>)
+
+### 前蓋
+[前蓋STL下載點](doc/3dfile/freecad/4_2_case-B.stl)
+
+### 後蓋
+[後蓋STL下載點](doc/3dfile/freecad/4_2_case-Body.stl)
+
+### 使用M3熱熔螺母
+
+---
 ## License | 授權  
 
 This project is licensed under the MIT License. See `LICENSE` for details.  
