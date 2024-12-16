@@ -116,6 +116,8 @@ To convert images to E-Paper display data, use the **Image2CPP** tool.
 
 ## 3D files
 
+![alt text](doc/3dfile/freecad/470667158_9772926126056815_1235831688639785868_n.jpg)
+
 ![alt text](<doc/3dfile/freecad/截圖 2024-12-15 晚上8.22.15.png>)
 
 ### 前蓋
